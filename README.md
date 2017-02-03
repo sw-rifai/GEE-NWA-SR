@@ -1,4 +1,4 @@
-GEE-NWA-SR
+GEE-NWA-SR [ABANDONED]
 ==========
 Google Earth Engine - Northwest Amazon - Surface Reflectance 
 
